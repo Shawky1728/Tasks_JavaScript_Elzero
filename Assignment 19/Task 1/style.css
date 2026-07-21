@@ -1,0 +1,31 @@
+#choices {
+
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+
+}
+
+#choices select {
+
+    margin: 5px auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+
+}
+
+
+.content {
+
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+
+}
